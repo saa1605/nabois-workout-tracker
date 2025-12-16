@@ -4,6 +4,6 @@ sqlalchemy
 pydantic
 pydantic-settings
 python-jose[cryptography]
-passlib[bcrypt]
+passlib[argon2]
 python-multipart
 alembic
